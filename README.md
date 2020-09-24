@@ -1,4 +1,5 @@
 # cypress-api-test-techniques
+Complete videos,exercises,quiz and assignments: www.udemy.com/course/cypressio Coupon Code: LEARNSEPTEMBER
 
 #Installation Steps:
 npm i cypress --save-dev

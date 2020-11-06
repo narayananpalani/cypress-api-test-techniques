@@ -1,5 +1,6 @@
 # cypress-api-test-techniques
-Complete videos,exercises,quiz and assignments: https://www.udemy.com/course/cypressio/?couponCode=LEARNSEPTEMBER
+-Complete videos,exercises,quiz and assignments: https://engineers-hub.teachable.com/p/cypressio 
+-Book: https://www.routledge.com/Automated-Software-Testing-with-Cypress/Palani/p/book/9780367699543
 
 #Installation Steps:
 npm i cypress --save-dev
